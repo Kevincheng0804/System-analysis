@@ -142,7 +142,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-39" value="時機:建立雲端教室時" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+                <mxCell id="ryS176TaE5lFz0hFWM8S-39" value="時機:設計雲端教室內部" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
                     <mxGeometry x="265" y="303" width="160" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-40" value="條件{是否有評量資料}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-39">
