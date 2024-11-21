@@ -107,13 +107,13 @@
                     <mxGeometry x="34" y="392" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="設計評量" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="418" y="401" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="418" y="439" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="設計課前評量" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="331" y="522" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="331" y="560" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="25" value="設計課後評量" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="474" y="522" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="474" y="560" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="35" value="Generalization" style="endArrow=block;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="25" target="23">
                     <mxGeometry relative="1" as="geometry">
@@ -135,41 +135,14 @@
                 <mxCell id="38" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="37">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-38" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.758;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-39" target="ryS176TaE5lFz0hFWM8S-53">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="34" y="242" as="sourcePoint"/>
-                        <mxPoint x="144" y="242" as="targetPoint"/>
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-39" value="時機:設計雲端教室內部" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="265" y="303" width="160" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-40" value="條件{是否有評量資料}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-39">
-                    <mxGeometry width="160" height="25" relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-41" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-42" target="ryS176TaE5lFz0hFWM8S-40">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="270" y="-94" as="sourcePoint"/>
-                        <mxPoint x="270" y="-213" as="targetPoint"/>
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
-                </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-42" value="上傳評量" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="452" y="323" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="293" y="297" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-47" value="時機:&lt;div&gt;查看課前評量成果分析&lt;/div&gt;時" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
                     <mxGeometry x="374" y="180" width="198" height="76" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-48" value="條件{是否有課前評量分析結果}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-47">
                     <mxGeometry width="198" height="25" relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-51" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-42" target="23">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="232" y="459" as="sourcePoint"/>
-                        <mxPoint x="350" y="506" as="targetPoint"/>
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-48" target="21">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -202,6 +175,33 @@
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="-99" y="77" as="sourcePoint"/>
                         <mxPoint x="63" y="275" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-65" value="時機:上傳評量時" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+                    <mxGeometry x="413" y="372" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-66" value="條件{是否有現有評量資料}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-65">
+                    <mxGeometry width="160" height="25" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-67" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="23">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="452" y="343" as="sourcePoint"/>
+                        <mxPoint x="484" y="429" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-64" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.358;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-66" target="ryS176TaE5lFz0hFWM8S-42">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="-142" y="627" as="sourcePoint"/>
+                        <mxPoint x="200.96000000000004" y="323" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-68" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-53" target="ryS176TaE5lFz0hFWM8S-42">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="153" y="360" as="sourcePoint"/>
+                        <mxPoint x="276" y="423" as="targetPoint"/>
+                        <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Dm8r0YIzHr2bbyU3Pss4-9" value="培養學生團體思考" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
