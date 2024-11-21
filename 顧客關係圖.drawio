@@ -61,7 +61,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="建立雲端教室" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="22" y="329" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="30" y="308" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="邀請學生" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
                     <mxGeometry x="178" y="382" width="120" height="40" as="geometry"/>
@@ -83,10 +83,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="20" value="查看推薦備課檔案" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="220" y="198" width="120" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="21" value="&lt;div&gt;查看課前評量成果分析&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="220" y="147" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="220" y="165" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="編輯推薦備課檔案" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
                     <mxGeometry x="220" y="242" width="120" height="40" as="geometry"/>
@@ -136,38 +133,15 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-42" value="上傳評量" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="293" y="297" width="120" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-47" value="時機:&lt;div&gt;查看課前評量成果分析&lt;/div&gt;時" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="374" y="180" width="198" height="76" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-48" value="條件{是否有課前評量分析結果}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-47">
-                    <mxGeometry width="198" height="25" relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-48" target="21">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="-319" y="562" as="sourcePoint"/>
-                        <mxPoint x="82" y="172" as="targetPoint"/>
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
+                    <mxGeometry x="413" y="289" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-53" value="設計雲端教室內部" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="110" y="283" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="220" y="297" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-56" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="14" target="ryS176TaE5lFz0hFWM8S-53">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="153" y="360" as="sourcePoint"/>
                         <mxPoint x="276" y="423" as="targetPoint"/>
-                        <mxPoint as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-57" value="抓取雲端教室課前評量分析結果" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="413" y="275" width="120" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="ryS176TaE5lFz0hFWM8S-58" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="ryS176TaE5lFz0hFWM8S-57" target="ryS176TaE5lFz0hFWM8S-47">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="473" y="264" as="sourcePoint"/>
-                        <mxPoint x="436" y="339" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
@@ -178,7 +152,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-65" value="時機:上傳評量時" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-                    <mxGeometry x="413" y="372" width="160" height="60" as="geometry"/>
+                    <mxGeometry x="378" y="362" width="160" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="ryS176TaE5lFz0hFWM8S-66" value="條件{是否有現有評量資料}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-65">
                     <mxGeometry width="160" height="25" relative="1" as="geometry"/>
@@ -203,6 +177,12 @@
                         <mxPoint x="276" y="423" as="targetPoint"/>
                         <mxPoint as="offset"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-69" value="查看評量結果" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+                    <mxGeometry x="34" y="451" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-71" value="編輯備課檔案" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+                    <mxGeometry x="32" y="506" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="Dm8r0YIzHr2bbyU3Pss4-9" value="培養學生團體思考" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
                     <mxGeometry x="773" y="-130" width="120" height="40" as="geometry"/>
@@ -266,6 +246,44 @@
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="77" y="-308" as="sourcePoint"/>
                         <mxPoint x="221" y="-55" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-70" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0.017;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ryS176TaE5lFz0hFWM8S-69">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="71" y="-308" as="sourcePoint"/>
+                        <mxPoint x="204" y="38" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-72" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ryS176TaE5lFz0hFWM8S-71">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="77" y="-308" as="sourcePoint"/>
+                        <mxPoint x="223.03999999999996" y="104" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="&lt;div&gt;查看課前評量成果分析&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="924" y="-230" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-47" value="時機:&lt;div&gt;查看課前評量成果分析&lt;/div&gt;時" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="1078" y="-197" width="198" height="76" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-48" value="條件{是否有課前評量分析結果}" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="ryS176TaE5lFz0hFWM8S-47">
+                    <mxGeometry width="198" height="25" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-57" value="抓取雲端教室課前評量分析結果" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="1117" y="-102" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-46" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryS176TaE5lFz0hFWM8S-48" target="21">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="-143" y="177" as="sourcePoint"/>
+                        <mxPoint x="258" y="-213" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ryS176TaE5lFz0hFWM8S-58" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ryS176TaE5lFz0hFWM8S-57" target="ryS176TaE5lFz0hFWM8S-47">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="649" y="-121" as="sourcePoint"/>
+                        <mxPoint x="612" y="-46" as="targetPoint"/>
+                        <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
             </root>
