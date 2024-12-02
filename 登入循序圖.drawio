@@ -1,78 +1,78 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
-  <diagram name="第 1 页" id="zrPnzTWYwnRGHxYs-smv">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-5" value="APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="210" y="100" width="100" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ptcaI2gP4qYrkbsskPqV-5">
-          <mxGeometry x="45" y="90" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-6" value="資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="364" y="100" width="100" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ptcaI2gP4qYrkbsskPqV-6">
-          <mxGeometry x="45" y="160" width="10" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-8" value="登入" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="ptcaI2gP4qYrkbsskPqV-14" target="ptcaI2gP4qYrkbsskPqV-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="130" y="195" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-14" value="使用者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="90" y="100" width="40" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-16" value="驗證資料" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="ptcaI2gP4qYrkbsskPqV-7" target="ptcaI2gP4qYrkbsskPqV-15">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="310" y="270" as="sourcePoint" />
-            <mxPoint x="380" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-17" value="驗證" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="300" width="470" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-22" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0.996;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ptcaI2gP4qYrkbsskPqV-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="20" y="404.5" as="sourcePoint" />
-            <mxPoint x="180" y="404.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="ptcaI2gP4qYrkbsskPqV-22">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-24" value="驗證成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ptcaI2gP4qYrkbsskPqV-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="409" y="330" as="sourcePoint" />
-            <mxPoint x="260" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-25" value="驗證失敗" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ptcaI2gP4qYrkbsskPqV-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="409" y="430" as="sourcePoint" />
-            <mxPoint x="260" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="255" y="320" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="255" y="420" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-33" value="登入成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="ptcaI2gP4qYrkbsskPqV-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="370" as="sourcePoint" />
-            <mxPoint x="175" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ptcaI2gP4qYrkbsskPqV-34" value="帳號或密碼錯誤" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="470" as="sourcePoint" />
-            <mxPoint x="110" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram name="第 1 页" id="zrPnzTWYwnRGHxYs-smv">
+        <mxGraphModel dx="1040" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-5" value="APP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+                    <mxGeometry x="280" y="100" width="100" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ptcaI2gP4qYrkbsskPqV-5" vertex="1">
+                    <mxGeometry x="45" y="90" width="10" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-6" value="資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+                    <mxGeometry x="434" y="100" width="100" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="ptcaI2gP4qYrkbsskPqV-6" vertex="1">
+                    <mxGeometry x="45" y="160" width="10" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-8" value="登入" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="ptcaI2gP4qYrkbsskPqV-14" target="ptcaI2gP4qYrkbsskPqV-7" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="200" y="195" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-14" value="使用者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="100" width="40" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-16" value="驗證資料" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="1" source="ptcaI2gP4qYrkbsskPqV-7" target="ptcaI2gP4qYrkbsskPqV-15" edge="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="380" y="270" as="sourcePoint"/>
+                        <mxPoint x="450" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-17" value="驗證" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="300" width="470" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-22" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0.996;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ptcaI2gP4qYrkbsskPqV-17" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="90" y="404.5" as="sourcePoint"/>
+                        <mxPoint x="250" y="404.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="ptcaI2gP4qYrkbsskPqV-22" connectable="0" vertex="1">
+                    <mxGeometry x="1" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-24" value="驗證成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="ptcaI2gP4qYrkbsskPqV-29" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="479" y="330" as="sourcePoint"/>
+                        <mxPoint x="330" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-25" value="驗證失敗" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="ptcaI2gP4qYrkbsskPqV-30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="479" y="430" as="sourcePoint"/>
+                        <mxPoint x="330" y="430" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+                    <mxGeometry x="325" y="320" width="10" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+                    <mxGeometry x="325" y="420" width="10" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-33" value="登入成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="ptcaI2gP4qYrkbsskPqV-14" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="325" y="370" as="sourcePoint"/>
+                        <mxPoint x="245" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="ptcaI2gP4qYrkbsskPqV-34" value="帳號或密碼錯誤" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="325" y="470" as="sourcePoint"/>
+                        <mxPoint x="180" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
