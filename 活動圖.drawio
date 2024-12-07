@@ -167,15 +167,19 @@
         <mxCell id="7FevX2dkkL_9MfP158KE-79" value="進入雲端教室" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="219" y="719" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7FevX2dkkL_9MfP158KE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" parent="1" source="7FevX2dkkL_9MfP158KE-83" edge="1">
+        <mxCell id="7FevX2dkkL_9MfP158KE-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="7FevX2dkkL_9MfP158KE-83" edge="1" target="w4hdbUAe_bw6c_E5u_BD-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="377" y="814" as="targetPoint" />
             <mxPoint x="317" y="842" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="380" y="814" />
+              <mxPoint x="380" y="1105" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7FevX2dkkL_9MfP158KE-82" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-81" vertex="1" connectable="0">
           <mxGeometry x="0.1563" relative="1" as="geometry">
-            <mxPoint x="-19" as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7FevX2dkkL_9MfP158KE-83" value="" style="rhombus;aspect=fixed;" parent="1" vertex="1">
