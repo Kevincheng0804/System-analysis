@@ -217,7 +217,7 @@
           <mxGeometry x="220" y="976" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w4hdbUAe_bw6c_E5u_BD-3" value="上傳評量" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1268" width="120" height="50" as="geometry" />
+          <mxGeometry x="99" y="1318" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w4hdbUAe_bw6c_E5u_BD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="w4hdbUAe_bw6c_E5u_BD-6">
           <mxGeometry relative="1" as="geometry">
@@ -255,11 +255,33 @@
         <mxCell id="w4hdbUAe_bw6c_E5u_BD-11" value="設計評量" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="1148" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="w4hdbUAe_bw6c_E5u_BD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w4hdbUAe_bw6c_E5u_BD-13" target="w4hdbUAe_bw6c_E5u_BD-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1244" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4hdbUAe_bw6c_E5u_BD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w4hdbUAe_bw6c_E5u_BD-13" target="w4hdbUAe_bw6c_E5u_BD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w4hdbUAe_bw6c_E5u_BD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w4hdbUAe_bw6c_E5u_BD-13" target="w4hdbUAe_bw6c_E5u_BD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w4hdbUAe_bw6c_E5u_BD-13" value="" style="rhombus;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="431" y="1234" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w4hdbUAe_bw6c_E5u_BD-19" value="設計雲端教室" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="219" y="1068" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w4hdbUAe_bw6c_E5u_BD-21" value="設前課前評量" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1318" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w4hdbUAe_bw6c_E5u_BD-22" value="設計課後評量" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="451" y="1318" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w4hdbUAe_bw6c_E5u_BD-23" value="設計課前和課後評量" style="html=1;dashed=0;rounded=1;absoluteArcSize=1;arcSize=20;verticalAlign=middle;align=center;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1318" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
