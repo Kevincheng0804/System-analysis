@@ -56,7 +56,7 @@
             <mxPoint x="158.5" y="391" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FevX2dkkL_9MfP158KE-27" value="是否是老師?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-26" vertex="1" connectable="0">
+        <mxCell id="7FevX2dkkL_9MfP158KE-27" value="選擇的身分" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-26" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
@@ -95,7 +95,7 @@
             <mxPoint x="199" y="481" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FevX2dkkL_9MfP158KE-39" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-38" vertex="1" connectable="0">
+        <mxCell id="7FevX2dkkL_9MfP158KE-39" value="學生" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-38" vertex="1" connectable="0">
           <mxGeometry x="0.1563" relative="1" as="geometry">
             <mxPoint x="-19" as="offset" />
           </mxGeometry>
@@ -109,7 +109,7 @@
             <mxPoint x="159" y="462" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7FevX2dkkL_9MfP158KE-42" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-41" vertex="1" connectable="0">
+        <mxCell id="7FevX2dkkL_9MfP158KE-42" value="教師" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7FevX2dkkL_9MfP158KE-41" vertex="1" connectable="0">
           <mxGeometry x="0.0098" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="-1" as="offset" />
           </mxGeometry>
