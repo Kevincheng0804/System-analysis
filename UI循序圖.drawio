@@ -4,16 +4,16 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;老師&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=60;align=center;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;老師&lt;/font&gt;&lt;/p&gt;" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=60;align=center;" parent="1" vertex="1">
                     <mxGeometry x="130" y="90" width="40" height="410" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="5" value="首頁UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="250" y="100" width="50" height="400" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="6" value="輸入資料UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="370" y="100" width="50" height="400" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="7" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="490" y="100" width="50" height="400" as="geometry"/>
                 </mxCell>
             </root>
