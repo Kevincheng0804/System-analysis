@@ -295,6 +295,9 @@
             <mxPoint x="816" y="-74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-euwn4MVrjBJuAJiLLKs-43" value="資訊管理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="836" y="78" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
