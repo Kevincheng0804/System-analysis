@@ -77,7 +77,7 @@
         <mxCell id="xHbhCZASZW0XeuVVDQTi-5" value="時機:編輯備課檔案" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="CziYM-y-jJqnJA0qJ0Aq-2" vertex="1">
           <mxGeometry x="184" y="296" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xHbhCZASZW0XeuVVDQTi-6" value="條件:當裡面有評量資料時" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="xHbhCZASZW0XeuVVDQTi-5" vertex="1">
+        <mxCell id="xHbhCZASZW0XeuVVDQTi-6" value="條件:當老師需要分析結果時" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="xHbhCZASZW0XeuVVDQTi-5" vertex="1">
           <mxGeometry width="160" height="25" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xHbhCZASZW0XeuVVDQTi-9" value="填寫評量" style="ellipse;html=1;whiteSpace=wrap;" parent="CziYM-y-jJqnJA0qJ0Aq-2" vertex="1">
