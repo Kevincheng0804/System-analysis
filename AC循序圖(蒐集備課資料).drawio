@@ -19,6 +19,9 @@
                 <mxCell id="11" value="儲存資料" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;align=center;" vertex="1" parent="1">
                     <mxGeometry x="630" y="80" width="60" height="480" as="geometry"/>
                 </mxCell>
+                <mxCell id="12" value="備課資料" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="80" width="60" height="480" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
