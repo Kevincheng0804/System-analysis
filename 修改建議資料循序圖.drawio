@@ -5,19 +5,19 @@
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="7" value="編輯建議資料UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;size=54;" parent="1" vertex="1">
-                    <mxGeometry x="390" y="93.75" width="70" height="900" as="geometry"/>
+                    <mxGeometry x="390" y="93.75" width="70" height="506.25" as="geometry"/>
                 </mxCell>
                 <mxCell id="105" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="7">
                     <mxGeometry x="30" y="136.25" width="10" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="92" value="備課資料" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" vertex="1" parent="1">
-                    <mxGeometry x="640" y="100" width="60" height="1000" as="geometry"/>
+                    <mxGeometry x="640" y="100" width="60" height="500" as="geometry"/>
                 </mxCell>
                 <mxCell id="111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="92">
                     <mxGeometry x="25" y="250" width="10" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="94" value="編輯建議資料" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;align=center;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="93.75" width="60" height="1000" as="geometry"/>
+                    <mxGeometry x="520" y="93.75" width="60" height="506.25" as="geometry"/>
                 </mxCell>
                 <mxCell id="108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="94">
                     <mxGeometry x="25" y="196.25" width="10" height="60" as="geometry"/>
@@ -29,7 +29,7 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="97" value="確認結果UI" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=16;size=54;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="93.75" width="70" height="900" as="geometry"/>
+                    <mxGeometry x="250" y="93.75" width="70" height="506.25" as="geometry"/>
                 </mxCell>
                 <mxCell id="104" value="1.編輯建議資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;entryX=-0.17;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="97" target="105">
                     <mxGeometry width="60" relative="1" as="geometry">
