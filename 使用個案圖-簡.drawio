@@ -152,7 +152,7 @@
         <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-5" value="時機:建立備課資料" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="-193" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-6" value="條件:當備課資料有誤差" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="_Kk4AJ7cjc7ddRNfzMjY-5">
+        <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-6" value="條件:當建議資料有誤差" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="_Kk4AJ7cjc7ddRNfzMjY-5">
           <mxGeometry width="160" height="25" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.944;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_Kk4AJ7cjc7ddRNfzMjY-6" target="CziYM-y-jJqnJA0qJ0Aq-15">
