@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2" value="暫存資料庫" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" parent="1" vertex="1">
-          <mxGeometry x="690" y="110" width="80" height="990" as="geometry" />
+          <mxGeometry x="690" y="110" width="80" height="420" as="geometry" />
         </mxCell>
         <mxCell id="3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="2" vertex="1">
           <mxGeometry x="35" y="180" width="10" height="40" as="geometry" />
