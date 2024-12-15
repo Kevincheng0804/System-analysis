@@ -22,6 +22,18 @@
                         <mxPoint x="529.5" y="251" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="2" value="備課資料" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" vertex="1" parent="1">
+                    <mxGeometry x="690" y="110" width="60" height="990" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="2">
+                    <mxGeometry x="25" y="181" width="10" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="2:傳輸推薦資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="535.5" y="293" as="sourcePoint"/>
+                        <mxPoint x="720" y="293" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>

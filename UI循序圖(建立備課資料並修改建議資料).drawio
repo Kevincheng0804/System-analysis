@@ -28,6 +28,9 @@
                 <mxCell id="8" value="Application Core" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
                     <mxGeometry x="610" y="111.25" width="190" height="890" as="geometry"/>
                 </mxCell>
+                <mxCell id="43" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="8" vertex="1">
+                    <mxGeometry x="-120" y="398.75" width="270" height="171.25" as="geometry"/>
+                </mxCell>
                 <mxCell id="YPL2zZCJEPcPc3VNx12_-92" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="8" vertex="1">
                     <mxGeometry x="-130" y="593.75" width="320" height="186.25" as="geometry"/>
                 </mxCell>
