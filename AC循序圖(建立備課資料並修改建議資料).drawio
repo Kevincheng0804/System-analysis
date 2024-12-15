@@ -37,13 +37,13 @@
                 <mxCell id="57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="8" vertex="1">
                     <mxGeometry x="45" y="740" width="10" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="97" value="10:提出確認備課資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;entryX=0.473;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8">
+                <mxCell id="97" value="10:提出確認備課資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;entryX=0.473;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="8" edge="1">
                     <mxGeometry width="60" relative="1" as="geometry">
                         <mxPoint x="-75.22999999999999" y="920.3000000000001" as="sourcePoint"/>
                         <mxPoint x="45" y="920" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="98" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8">
+                <mxCell id="98" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="8" vertex="1">
                     <mxGeometry x="45" y="915" width="10" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="上傳資料" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;align=center;" parent="1" vertex="1">
@@ -138,14 +138,29 @@
                 <mxCell id="74" value="建議資料" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
                     <mxGeometry x="530" y="560" width="80" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="94" value="11:提供確認備課資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=1.007;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                <mxCell id="94" value="11:提供確認備課資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=1.007;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
                     <mxGeometry width="60" relative="1" as="geometry">
-                        <mxPoint x="270.00000000000006" y="1054.0100000000002" as="sourcePoint"/>
-                        <mxPoint x="669.5" y="1054.0100000000002" as="targetPoint"/>
+                        <mxPoint x="270.00000000000006" y="1030.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="400" y="1030" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+                <mxCell id="99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
                     <mxGeometry x="665" y="1050" width="10" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="12:上傳確認備課資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=1.007;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="101" target="64">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="400" y="1050.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="530" y="1050" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="102" value="" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=none;startSize=8;exitX=1.007;exitY=0.889;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="101">
+                    <mxGeometry width="60" relative="1" as="geometry">
+                        <mxPoint x="400" y="1050.0000000000002" as="sourcePoint"/>
+                        <mxPoint x="669.5" y="1050.0000000000002" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="101" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="395" y="1025" width="10" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

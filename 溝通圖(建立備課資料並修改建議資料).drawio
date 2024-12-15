@@ -52,7 +52,7 @@
                         <mxPoint x="640" y="80" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="25" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2.傳送備課資料&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
+                <mxCell id="25" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2.傳送備課資料&lt;br&gt;&lt;span style=&quot;color: rgb(240, 240, 240); background-color: rgb(24, 20, 29);&quot;&gt;11:提供確認備課資料&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-30;" parent="1" vertex="1">
                     <mxGeometry x="410" y="140" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;5.顯示備課結果()&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=30;" parent="1" vertex="1">
@@ -154,14 +154,8 @@
                         <mxPoint x="850" y="280" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="79" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;11:提供確認備課資料&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=30;" vertex="1" parent="1">
-                    <mxGeometry x="430" y="460" width="140" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="80" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="350" y="340" as="sourcePoint"/>
-                        <mxPoint x="660" y="550" as="targetPoint"/>
-                    </mxGeometry>
+                <mxCell id="81" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;12:上傳確認備課資料&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="740" y="340" width="140" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
