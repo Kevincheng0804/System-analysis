@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="第 1 页" id="H2TznUmvJiQQ8Nd20iMS">
-        <mxGraphModel dx="576" dy="5013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+        <mxGraphModel dx="655" dy="5101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -74,26 +74,17 @@
                 <mxCell id="xHbhCZASZW0XeuVVDQTi-9" value="填寫評量" style="ellipse;html=1;whiteSpace=wrap;" parent="CziYM-y-jJqnJA0qJ0Aq-2" vertex="1">
                     <mxGeometry x="32" y="376" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="vAJU4Gscb78ndSJwRITv-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="CziYM-y-jJqnJA0qJ0Aq-2" source="_Kk4AJ7cjc7ddRNfzMjY-1" target="CziYM-y-jJqnJA0qJ0Aq-39" edge="1">
+                <mxCell id="CziYM-y-jJqnJA0qJ0Aq-18" value="編輯建議備課資料" style="ellipse;html=1;whiteSpace=wrap;" parent="CziYM-y-jJqnJA0qJ0Aq-2" vertex="1">
+                    <mxGeometry x="384" y="216" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="vAJU4Gscb78ndSJwRITv-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=none;startArrow=open;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.611;exitY=1.017;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="CziYM-y-jJqnJA0qJ0Aq-2" source="CziYM-y-jJqnJA0qJ0Aq-15" target="CziYM-y-jJqnJA0qJ0Aq-39" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="134" y="223" as="sourcePoint"/>
                         <mxPoint x="217" y="246" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="64" y="306"/>
+                        </Array>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-1" value="時機:編輯備課檔案" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="CziYM-y-jJqnJA0qJ0Aq-2" vertex="1">
-                    <mxGeometry x="14" y="216" width="160" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-2" value="條件:當裡面沒有備課資料" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="_Kk4AJ7cjc7ddRNfzMjY-1" vertex="1">
-                    <mxGeometry width="160" height="25" relative="1" as="geometry"/>
-                </mxCell>
-                <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-3" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CziYM-y-jJqnJA0qJ0Aq-2" source="CziYM-y-jJqnJA0qJ0Aq-15" target="_Kk4AJ7cjc7ddRNfzMjY-2" edge="1">
-                    <mxGeometry width="160" relative="1" as="geometry">
-                        <mxPoint x="374" y="376" as="sourcePoint"/>
-                        <mxPoint x="354" y="336" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="CziYM-y-jJqnJA0qJ0Aq-18" value="編輯建議備課資料" style="ellipse;html=1;whiteSpace=wrap;" parent="CziYM-y-jJqnJA0qJ0Aq-2" vertex="1">
-                    <mxGeometry x="384" y="216" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="CziYM-y-jJqnJA0qJ0Aq-49" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="CziYM-y-jJqnJA0qJ0Aq-15" edge="1">
                     <mxGeometry width="160" relative="1" as="geometry">
@@ -166,6 +157,12 @@
                         <mxPoint x="530" y="-250" as="sourcePoint"/>
                         <mxPoint x="670" y="-120" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-1" value="時機:編輯備課檔案" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
+                    <mxGeometry y="-180" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="_Kk4AJ7cjc7ddRNfzMjY-2" value="條件:當裡面沒有備課資料" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" parent="_Kk4AJ7cjc7ddRNfzMjY-1" vertex="1">
+                    <mxGeometry width="160" height="25" relative="1" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
