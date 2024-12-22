@@ -55,9 +55,6 @@
         <mxCell id="H8wYjX5WcJpsJir_X8CI-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-17">
           <mxGeometry x="30" y="880" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-17">
-          <mxGeometry x="30" y="990" width="10" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-17">
           <mxGeometry x="30" y="1100" width="10" height="30" as="geometry" />
         </mxCell>
@@ -214,64 +211,45 @@
         <mxCell id="H8wYjX5WcJpsJir_X8CI-56" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-55">
           <mxGeometry x="25" y="1090" width="10" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-57" value="23:傳送資料編號()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-17">
-          <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="1038" as="sourcePoint" />
-            <mxPoint x="733" y="1038" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-58" value="24:傳送除資料編號以外的資料" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="1070" as="sourcePoint" />
-            <mxPoint x="1040" y="1070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-59" value="14:顯示推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="490" as="sourcePoint" />
             <mxPoint x="660.5" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-61" value="25:提出刪除要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="80" y="1100" as="sourcePoint" />
-            <mxPoint x="290" y="1100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-62" value="26:傳送刪除資料要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-55">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-62" value="23:傳送刪除資料要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-55">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="1130" as="sourcePoint" />
             <mxPoint x="723" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-63" value="27:刪除所有資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-63" value="24:刪除所有資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
             <mxPoint x="400" y="1150" as="sourcePoint" />
             <mxPoint x="1030" y="1150" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-64" value="28:回傳已刪除所有資料指示()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-64" value="25:回傳已刪除所有資料指示()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="1180" as="sourcePoint" />
             <mxPoint x="1030" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-65" value="29:讀取儲存資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-22">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-65" value="26:讀取儲存資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-22">
           <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
             <mxPoint x="300" y="1220" as="sourcePoint" />
             <mxPoint x="930" y="1220" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-66" value="30:顯示備課檔案()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-66" value="27:顯示備課檔案()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="670" y="1260" as="sourcePoint" />
             <mxPoint x="1290" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-67" value="31:顯示備課檔案()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-67" value="28:顯示備課檔案()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="300" y="1290" as="sourcePoint" />
             <mxPoint x="660" y="1290" as="targetPoint" />
