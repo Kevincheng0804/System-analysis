@@ -78,7 +78,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-119" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-119" value="&lt;u&gt;:老師&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
           <mxGeometry x="90" y="100" width="40" height="480" as="geometry" />
         </mxCell>
         <mxCell id="109" value="5:傳送已編輯資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=0.533;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="105" edge="1" target="94">
