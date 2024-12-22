@@ -43,7 +43,7 @@
             <mxPoint x="778.5" y="399.32000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="112" value="7:顯示建議資料()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
+        <mxCell id="112" value="7:回傳建議資料()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="460" as="sourcePoint" />
             <mxPoint x="540" y="460" as="targetPoint" />
