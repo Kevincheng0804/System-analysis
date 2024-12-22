@@ -11,7 +11,7 @@
           <mxGeometry x="240" y="40" width="100" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-2">
-          <mxGeometry x="45" y="90" width="10" height="90" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-2">
           <mxGeometry x="45" y="220" width="10" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="635" y="42" width="60" height="1568" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-9">
-          <mxGeometry x="25" y="118" width="10" height="62" as="geometry" />
+          <mxGeometry x="25" y="118" width="10" height="72" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-9">
           <mxGeometry x="25" y="312" width="10" height="22" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="1260" y="50" width="70" height="1585" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-22">
-          <mxGeometry x="30" y="139" width="10" height="41" as="geometry" />
+          <mxGeometry x="30" y="131" width="10" height="41" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-22">
           <mxGeometry x="30" y="911" width="10" height="45" as="geometry" />
@@ -97,7 +97,7 @@
             <mxPoint x="1043" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-28" value="4:載入目前所有備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-23">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-28" value="4:載入目前所有備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-23" source="H8wYjX5WcJpsJir_X8CI-9">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="670" y="224.5" as="sourcePoint" />
             <mxPoint x="1255" y="224.5" as="targetPoint" />
@@ -105,8 +105,8 @@
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-29" value="5:顯示目前所有備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="290" y="220" as="sourcePoint" />
-            <mxPoint x="658" y="220.5" as="targetPoint" />
+            <mxPoint x="290" y="230" as="sourcePoint" />
+            <mxPoint x="658" y="230.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-30" value="6:點擊建立備課資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
