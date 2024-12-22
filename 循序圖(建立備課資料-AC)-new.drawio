@@ -283,6 +283,12 @@
             <mxPoint x="660" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-69" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="670" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-70" value="[是否要編輯資料]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="670" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
