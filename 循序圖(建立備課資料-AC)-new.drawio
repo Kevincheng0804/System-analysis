@@ -150,8 +150,8 @@
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-39" value="15:提出修改提示(提示)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="80" y="500" as="sourcePoint" />
-            <mxPoint x="290" y="500" as="targetPoint" />
+            <mxPoint x="80" y="514" as="sourcePoint" />
+            <mxPoint x="290" y="514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-40" value="16:傳送修改條件後備課資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.022;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-41">
