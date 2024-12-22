@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="02cxdgv99CvA-U2xE2fi">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="220" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-2">
-          <mxGeometry x="45" y="340" width="10" height="490" as="geometry" />
+          <mxGeometry x="45" y="340" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-2">
           <mxGeometry x="45" y="870" width="10" height="380" as="geometry" />
@@ -43,14 +43,8 @@
         <mxCell id="H8wYjX5WcJpsJir_X8CI-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-9">
           <mxGeometry x="25" y="428" width="10" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-9">
-          <mxGeometry x="25" y="808" width="10" height="22" as="geometry" />
-        </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H8wYjX5WcJpsJir_X8CI-9">
           <mxGeometry x="25" y="1218" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-16" value=":編輯&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%A1%AF%E7%A4%BA%22%20style%3D%22shape%3DumlLifeline%3Bperimeter%3DlifelinePerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bcontainer%3D1%3BdropTarget%3D0%3Bcollapsible%3D0%3BrecursiveResize%3D0%3BoutlineConnect%3D0%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3Bparticipant%3DumlControl%3Bsize%3D50%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22635%22%20y%3D%2242%22%20width%3D%2260%22%20height%3D%22370%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=60;" vertex="1" parent="1">
-          <mxGeometry x="810" y="40" width="60" height="1670" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-17" value="暫存資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=60;" vertex="1" parent="1">
           <mxGeometry x="1000" y="50" width="70" height="1790" as="geometry" />
@@ -196,24 +190,6 @@
             <mxPoint x="290" y="704.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-47" value="20:提出編輯資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=-0.004;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="H8wYjX5WcJpsJir_X8CI-48">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="740" as="sourcePoint" />
-            <mxPoint x="393" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-48" value="ref" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="740" width="356" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-49" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;編輯建議備課資料&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="790" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-50" value="21:傳送已編輯資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classicThin;startFill=1;endFill=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="670" y="850" as="sourcePoint" />
-            <mxPoint x="748.5" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-51" value="23:提出儲存要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="80" y="910" as="sourcePoint" />
@@ -261,12 +237,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="490" as="sourcePoint" />
             <mxPoint x="660.5" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-60" value="22:顯示已編輯資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classicThin;startFill=1;endFill=0;dashed=1;" edge="1" parent="1" source="H8wYjX5WcJpsJir_X8CI-2">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="580" y="870" as="sourcePoint" />
-            <mxPoint x="658.5" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-61" value="29:提出刪除要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
