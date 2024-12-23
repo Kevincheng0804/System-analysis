@@ -28,7 +28,7 @@
         <mxCell id="3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="2" vertex="1">
           <mxGeometry x="34.72" y="200" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="thBhcSwpYrsme4-HxpD_-4" value="4:回傳推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=-0.015;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2" source="JTMgfIwNHuAjQ8_j63oj-16">
+        <mxCell id="thBhcSwpYrsme4-HxpD_-4" value="6:回傳推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=-0.015;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2" source="JTMgfIwNHuAjQ8_j63oj-16">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-355.78" y="376" as="sourcePoint" />
             <mxPoint x="34.72000000000003" y="376" as="targetPoint" />
@@ -55,7 +55,7 @@
         <mxCell id="JTMgfIwNHuAjQ8_j63oj-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="JTMgfIwNHuAjQ8_j63oj-8">
           <mxGeometry x="35" y="267" width="10" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="JTMgfIwNHuAjQ8_j63oj-10" value="2:傳輸推薦資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1" target="JTMgfIwNHuAjQ8_j63oj-9">
+        <mxCell id="JTMgfIwNHuAjQ8_j63oj-10" value="4:傳輸推薦資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1" target="JTMgfIwNHuAjQ8_j63oj-9">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="540" y="380" as="sourcePoint" />
             <mxPoint x="804.5" y="380" as="targetPoint" />
@@ -73,7 +73,7 @@
             <mxPoint x="1158.43" y="360.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JTMgfIwNHuAjQ8_j63oj-14" value="3:儲存推薦資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
+        <mxCell id="JTMgfIwNHuAjQ8_j63oj-14" value="5:儲存推薦資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="941" y="420" as="sourcePoint" />
             <mxPoint x="1070" y="420" as="targetPoint" />
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="JTMgfIwNHuAjQ8_j63oj-16" value="&lt;u&gt;:顯示&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=80;" vertex="1" parent="1">
           <mxGeometry x="170" y="95" width="80" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ95mxA99A_soXa4k39W-4" value="[是否第一次生成推薦資料]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ95mxA99A_soXa4k39W-6" value="[ELSE]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="388" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -151,7 +157,7 @@
             <mxPoint x="590" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noDtSTUDijcCF9DxgJO0-1" value="6:回傳推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=-0.015;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="noDtSTUDijcCF9DxgJO0-1" value="8:回傳推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=-0.015;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="394.75" y="479" as="sourcePoint" />
             <mxPoint x="595.25" y="479" as="targetPoint" />
@@ -166,16 +172,31 @@
         <mxCell id="EEJMl2Y4eN69eJFHV0HP-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EEJMl2Y4eN69eJFHV0HP-1">
           <mxGeometry x="35" y="277" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EEJMl2Y4eN69eJFHV0HP-3" value="4:儲存推薦資料()" style="html=1;verticalAlign=bottom;startArrow=block;startFill=1;endArrow=none;startSize=8;endFill=0;dashed=1;" edge="1" parent="1" source="EEJMl2Y4eN69eJFHV0HP-1">
+        <mxCell id="EEJMl2Y4eN69eJFHV0HP-3" value="6:儲存推薦資料()" style="html=1;verticalAlign=bottom;startArrow=block;startFill=1;endArrow=none;startSize=8;endFill=0;dashed=1;" edge="1" parent="1" source="EEJMl2Y4eN69eJFHV0HP-1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="190" y="390.5" as="sourcePoint" />
             <mxPoint x="495" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EEJMl2Y4eN69eJFHV0HP-4" value="5:更新資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1" target="JQ1Kt6Ikf9yzDfZvthdi-1">
+        <mxCell id="EEJMl2Y4eN69eJFHV0HP-4" value="7:更新資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1" target="JQ1Kt6Ikf9yzDfZvthdi-1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="105.5" y="420" as="sourcePoint" />
             <mxPoint x="530" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7AwUXGeJXXuvLwjgftM--1" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="620" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7AwUXGeJXXuvLwjgftM--2" value="[是否第一次生成推薦資料]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="298" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="izuBgtJ-Uf4viwJpoWk0-1" value="[ELSE]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rh4tr0TC5JxVsJ9LExIp-1" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.997;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.003;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="39.99999999999994" y="370" as="sourcePoint" />
+            <mxPoint x="656.8500000000001" y="370.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
