@@ -1,28 +1,19 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="_kCn5gWWrIlWfqqUU_DX">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="92" value="&lt;u&gt;:暫存資料庫&lt;/u&gt;" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" parent="1" vertex="1">
-          <mxGeometry x="749" y="100" width="60" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="111" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="92" vertex="1">
-          <mxGeometry x="25" y="300" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-123" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="92">
-          <mxGeometry x="25" y="130" width="10" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="94" value="&lt;u&gt;:編輯建議資料&lt;/u&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;align=center;" parent="1" vertex="1">
           <mxGeometry x="630" y="92.75" width="60" height="506.25" as="geometry" />
         </mxCell>
         <mxCell id="108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="94" vertex="1">
           <mxGeometry x="25" y="247.25" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="104" value="2:傳送需編輯建議資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" target="92" edge="1">
+        <mxCell id="104" value="2:傳送需編輯建議資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="270" y="230" as="sourcePoint" />
-            <mxPoint x="394.28" y="230.00000000000003" as="targetPoint" />
+            <mxPoint x="778.5" y="230.53999999999996" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380.5" y="230.54" />
             </Array>
@@ -53,7 +44,7 @@
         <mxCell id="117" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="114" vertex="1">
           <mxGeometry x="25" y="357.25" width="10" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-120" value="1:點擊編輯資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="114">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-120" value="1:點擊編輯資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="114" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-399" y="136.25" as="sourcePoint" />
             <mxPoint x="-249" y="136.25" as="targetPoint" />
@@ -69,16 +60,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-119" value="&lt;u&gt;:老師&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" vertex="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-119" value="&lt;u&gt;:老師&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=60;" parent="1" vertex="1">
           <mxGeometry x="90" y="100" width="40" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="109" value="5:傳送已編輯資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=0.533;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="94">
+        <mxCell id="109" value="5:傳送已編輯資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=0.533;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="94" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="415.3299999999999" y="338.67999999999995" as="sourcePoint" />
             <mxPoint x="660" y="289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-124" value="3:顯示建議資料()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-124" value="3:顯示建議資料()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.0014" relative="1" as="geometry">
             <mxPoint x="780" y="280" as="sourcePoint" />
             <mxPoint x="414.5" y="280" as="targetPoint" />
@@ -88,20 +79,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-125" value="4:提出要編輯資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-125" value="4:提出要編輯資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="110" y="300" as="sourcePoint" />
             <mxPoint x="407" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-127" value="&lt;u&gt;:儲存API&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-127" value="&lt;u&gt;:儲存API&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="100" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-128" value="&lt;u style=&quot;font-size: 16px;&quot;&gt;:編輯建議資料UI&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-128" value="&lt;u style=&quot;font-size: 16px;&quot;&gt;:編輯建議資料UI&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="360" y="110" width="100" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="UdhTGRBezJr3sBxBmupz-129" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="UdhTGRBezJr3sBxBmupz-129" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="405" y="280" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bqVQleZ_oQ4j5fNlhAJD-118" value="&lt;u&gt;:Cache&lt;/u&gt;" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;align=center;" vertex="1" parent="1">
+          <mxGeometry x="753" y="92.75" width="60" height="506.25" as="geometry" />
+        </mxCell>
+        <mxCell id="bqVQleZ_oQ4j5fNlhAJD-119" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bqVQleZ_oQ4j5fNlhAJD-118">
+          <mxGeometry x="25" y="307.25" width="10" height="62.75" as="geometry" />
+        </mxCell>
+        <mxCell id="bqVQleZ_oQ4j5fNlhAJD-121" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bqVQleZ_oQ4j5fNlhAJD-118">
+          <mxGeometry x="25" y="137.25" width="10" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
