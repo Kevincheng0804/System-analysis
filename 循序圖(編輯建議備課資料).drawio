@@ -109,7 +109,7 @@
         <mxCell id="bqVQleZ_oQ4j5fNlhAJD-124" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="925" y="400" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bqVQleZ_oQ4j5fNlhAJD-126" value="7:回傳儲存資料" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="bqVQleZ_oQ4j5fNlhAJD-126" value="7:更新快取資料" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry x="0.1667" y="-10" relative="1" as="geometry">
             <mxPoint x="925" y="440" as="sourcePoint" />
             <mxPoint x="789.25" y="440" as="targetPoint" />
