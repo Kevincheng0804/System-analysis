@@ -236,7 +236,7 @@
             <mxPoint x="775.25" y="751" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSUb0s7sQzvSsTjn1v_9-63" value="18:提出儲存要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="cSUb0s7sQzvSsTjn1v_9-63" value="18:提出確認要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="35" y="893" as="sourcePoint" />
             <mxPoint x="550" y="893" as="targetPoint" />
