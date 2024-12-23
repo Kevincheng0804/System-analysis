@@ -6,7 +6,7 @@
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;查看UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-143">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="470" y="260" width="160" height="160" as="geometry">
+                        <mxGeometry x="730" y="240" width="160" height="160" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -26,9 +26,12 @@
                 <mxCell id="ybDPWDcmM2NUyqlbh23f-149" value="建立備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-143" vertex="1">
                     <mxGeometry y="126" width="160" height="26" as="geometry"/>
                 </mxCell>
-                <object label="&lt;&lt;boundary&gt;&gt;&#10;輸入資料UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-157">
+                <mxCell id="171" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ybDPWDcmM2NUyqlbh23f-157" target="ybDPWDcmM2NUyqlbh23f-164">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <object label="&lt;&lt;boundary&gt;&gt;&#10;載入資料UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-157">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="260" y="420" width="160" height="160" as="geometry">
+                        <mxGeometry x="240" y="410" width="160" height="160" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -50,7 +53,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;建立UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-164">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="700" y="220" width="160" height="190" as="geometry">
+                        <mxGeometry x="490" y="210" width="160" height="190" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -75,7 +78,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;確認資料UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-171">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="290" y="780" width="160" height="230" as="geometry">
+                        <mxGeometry x="310" y="810" width="160" height="230" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -106,7 +109,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;儲存資料API" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-178">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="870" y="480" width="160" height="210" as="geometry">
+                        <mxGeometry x="940" y="430" width="160" height="210" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -134,7 +137,7 @@
                 </mxCell>
                 <object label="&lt;&lt;control&gt;&gt;&#10;刪除" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-185">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="560" y="940" width="160" height="80" as="geometry">
+                        <mxGeometry x="600" y="940" width="160" height="80" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -147,7 +150,7 @@
                 </mxCell>
                 <object label="&lt;&lt;control&gt;&gt;&#10;上傳資料" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-192">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="270" y="640" width="160" height="80" as="geometry">
+                        <mxGeometry x="270" y="650" width="160" height="80" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -175,7 +178,7 @@
                 </mxCell>
                 <object label="&lt;&lt;control&gt;&gt;&#10;顯示" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-199">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="600" y="625" width="160" height="130" as="geometry">
+                        <mxGeometry x="590" y="560" width="160" height="230" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -191,6 +194,18 @@
                 </mxCell>
                 <mxCell id="151" value="顯示最終備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ybDPWDcmM2NUyqlbh23f-199">
                     <mxGeometry y="100" width="160" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="164" value="載入輸入資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ybDPWDcmM2NUyqlbh23f-199">
+                    <mxGeometry y="126" width="160" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="166" value="載入確認資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ybDPWDcmM2NUyqlbh23f-199">
+                    <mxGeometry y="152" width="160" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="167" value="載入查看資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ybDPWDcmM2NUyqlbh23f-199">
+                    <mxGeometry y="178" width="160" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="169" value="載入建立資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ybDPWDcmM2NUyqlbh23f-199">
+                    <mxGeometry y="204" width="160" height="26" as="geometry"/>
                 </mxCell>
                 <object label="&lt;&lt;entity&gt;&gt;&#10;暫存資料庫" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-206">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
