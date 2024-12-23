@@ -103,7 +103,7 @@
         <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="JQ1Kt6Ikf9yzDfZvthdi-1" vertex="1">
           <mxGeometry x="30" y="246" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-3" value="5:儲存資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" target="JQ1Kt6Ikf9yzDfZvthdi-1" edge="1">
+        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-3" value="5:儲存更新資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" target="JQ1Kt6Ikf9yzDfZvthdi-1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="170" y="360" as="sourcePoint" />
             <mxPoint x="365" y="360.5" as="targetPoint" />
