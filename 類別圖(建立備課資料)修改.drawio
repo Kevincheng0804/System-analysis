@@ -6,7 +6,7 @@
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;查看UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-143">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="730" y="240" width="160" height="160" as="geometry">
+                        <mxGeometry x="920" y="420" width="160" height="160" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -51,6 +51,9 @@
                 <mxCell id="ybDPWDcmM2NUyqlbh23f-163" value="插入附加資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-157" vertex="1">
                     <mxGeometry y="126" width="160" height="26" as="geometry"/>
                 </mxCell>
+                <mxCell id="172" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ybDPWDcmM2NUyqlbh23f-164" target="ybDPWDcmM2NUyqlbh23f-192">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;建立UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-164">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
                         <mxGeometry x="490" y="210" width="160" height="190" as="geometry">
@@ -78,7 +81,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;確認資料UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-171">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="310" y="810" width="160" height="230" as="geometry">
+                        <mxGeometry x="370" y="870" width="160" height="230" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -109,7 +112,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;儲存資料API" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-178">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="940" y="430" width="160" height="210" as="geometry">
+                        <mxGeometry x="260" y="620" width="160" height="210" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -150,7 +153,7 @@
                 </mxCell>
                 <object label="&lt;&lt;control&gt;&gt;&#10;上傳資料" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-192">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="270" y="650" width="160" height="80" as="geometry">
+                        <mxGeometry x="720" y="310" width="160" height="80" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
