@@ -194,7 +194,7 @@
             <mxPoint x="399.5" y="854" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-63" value="23:刪除所有資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="Kj-FDeYH0eSptQsSQdAA-7">
+        <mxCell id="H8wYjX5WcJpsJir_X8CI-63" value="23:刪除所有快取資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="Kj-FDeYH0eSptQsSQdAA-7">
           <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
             <mxPoint x="400" y="874" as="sourcePoint" />
             <mxPoint x="1030" y="874" as="targetPoint" />
