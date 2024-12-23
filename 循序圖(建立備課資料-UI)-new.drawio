@@ -28,6 +28,9 @@
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="cSUb0s7sQzvSsTjn1v_9-8" vertex="1">
           <mxGeometry x="45" y="397" width="10" height="253" as="geometry" />
         </mxCell>
+        <mxCell id="cSUb0s7sQzvSsTjn1v_9-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="cSUb0s7sQzvSsTjn1v_9-8" vertex="1">
+          <mxGeometry x="45" y="859" width="10" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-13" value="&lt;u&gt;:儲存API&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="651" y="30" width="100" height="1260" as="geometry" />
         </mxCell>
@@ -209,7 +212,7 @@
             <mxPoint x="650" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXKdgMsnnEw2hDHPbhKI-14" value="22:回傳已刪除指示()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classicThin;startFill=1;endFill=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="GXKdgMsnnEw2hDHPbhKI-14" value="20:回傳已刪除指示()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classicThin;startFill=1;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="555" y="953" as="sourcePoint" />
             <mxPoint x="990" y="953" as="targetPoint" />
@@ -233,29 +236,26 @@
             <mxPoint x="775.25" y="751" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSUb0s7sQzvSsTjn1v_9-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="45" y="1000" width="10" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-63" value="18:提出儲存要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="35" y="1030" as="sourcePoint" />
-            <mxPoint x="550" y="1030" as="targetPoint" />
+            <mxPoint x="35" y="893" as="sourcePoint" />
+            <mxPoint x="550" y="893" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXKdgMsnnEw2hDHPbhKI-6" value="24:顯示最終儲存資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classicThin;startFill=1;endFill=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="GXKdgMsnnEw2hDHPbhKI-6" value="22:顯示最終儲存資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;startArrow=classicThin;startFill=1;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="152" y="1015" as="sourcePoint" />
             <mxPoint x="982.5" y="1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXKdgMsnnEw2hDHPbhKI-15" value="23:讀取最終儲存資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="GXKdgMsnnEw2hDHPbhKI-5" edge="1">
+        <mxCell id="GXKdgMsnnEw2hDHPbhKI-15" value="21:讀取最終儲存資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="GXKdgMsnnEw2hDHPbhKI-5" edge="1">
           <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
             <mxPoint x="557" y="983" as="sourcePoint" />
             <mxPoint x="700" y="983" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GXKdgMsnnEw2hDHPbhKI-4" value="21:傳送刪除快取資料要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="GXKdgMsnnEw2hDHPbhKI-4" value="19:傳送刪除快取資料要求()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="557" y="923" as="sourcePoint" />
             <mxPoint x="990" y="923" as="targetPoint" />
