@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w0u9RNHJgTUNn4yF4F6x-2" value="上傳資料" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
+        <mxCell id="w0u9RNHJgTUNn4yF4F6x-2" value="&lt;u&gt;:上傳資料&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
           <mxGeometry x="301" y="100" width="70" height="400" as="geometry" />
         </mxCell>
         <mxCell id="w0u9RNHJgTUNn4yF4F6x-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="w0u9RNHJgTUNn4yF4F6x-2" vertex="1">
           <mxGeometry x="30" y="115" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="w0u9RNHJgTUNn4yF4F6x-3" value="生成推薦內容" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=80;" parent="1" vertex="1">
+        <mxCell id="w0u9RNHJgTUNn4yF4F6x-3" value="&lt;u&gt;:生成推薦內容&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=80;" parent="1" vertex="1">
           <mxGeometry x="491" y="100" width="80" height="400" as="geometry" />
         </mxCell>
         <mxCell id="w0u9RNHJgTUNn4yF4F6x-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="w0u9RNHJgTUNn4yF4F6x-3" vertex="1">
@@ -22,7 +22,7 @@
             <mxPoint x="529.5" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2" value="暫存資料庫" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" parent="1" vertex="1">
+        <mxCell id="2" value=":資料庫" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=14;size=60;" parent="1" vertex="1">
           <mxGeometry x="690" y="110" width="80" height="420" as="geometry" />
         </mxCell>
         <mxCell id="3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="2" vertex="1">
@@ -32,6 +32,12 @@
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="535.5" y="293" as="sourcePoint" />
             <mxPoint x="720" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="thBhcSwpYrsme4-HxpD_-4" value="3:回傳推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=-0.015;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w0u9RNHJgTUNn4yF4F6x-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="726" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -58,13 +64,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E2JmZn8zEcEdn4w3PUnU-1" value="GPT資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=70;" parent="1" vertex="1">
+        <mxCell id="E2JmZn8zEcEdn4w3PUnU-1" value="&lt;u&gt;:GPT資料庫&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=70;" parent="1" vertex="1">
           <mxGeometry x="460" y="110" width="70" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Q-6aSUCuVOY74vQfzuBb-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="E2JmZn8zEcEdn4w3PUnU-1" vertex="1">
           <mxGeometry x="30" y="180" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q-6aSUCuVOY74vQfzuBb-1" value=":建立" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
+        <mxCell id="Q-6aSUCuVOY74vQfzuBb-1" value="&lt;u&gt;:建立&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
           <mxGeometry x="250" y="110" width="80" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Q-6aSUCuVOY74vQfzuBb-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Q-6aSUCuVOY74vQfzuBb-1" vertex="1">
@@ -85,23 +91,32 @@
             <mxPoint x="495" y="330.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pg8dtepmqFzvqZeHRlJh-1" value=":儲存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
+        <mxCell id="pg8dtepmqFzvqZeHRlJh-1" value="&lt;u&gt;:儲存&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="80" height="370" as="geometry" />
         </mxCell>
         <mxCell id="pg8dtepmqFzvqZeHRlJh-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="pg8dtepmqFzvqZeHRlJh-1" vertex="1">
           <mxGeometry x="35" y="216" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-1" value="暫存資料庫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=70;" vertex="1" parent="1">
+        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-1" value="&lt;u&gt;:資料庫&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=70;" parent="1" vertex="1">
           <mxGeometry x="560" y="110" width="70" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="JQ1Kt6Ikf9yzDfZvthdi-1">
+        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="JQ1Kt6Ikf9yzDfZvthdi-1" vertex="1">
           <mxGeometry x="30" y="246" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-3" value="5:儲存資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1" target="JQ1Kt6Ikf9yzDfZvthdi-1">
+        <mxCell id="JQ1Kt6Ikf9yzDfZvthdi-3" value="5:儲存資料" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" target="JQ1Kt6Ikf9yzDfZvthdi-1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="170" y="360" as="sourcePoint" />
             <mxPoint x="365" y="360.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="noDtSTUDijcCF9DxgJO0-1" value="3:回傳推薦備課資料()" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;dashed=1;startArrow=blockThin;startFill=1;endFill=0;entryX=-0.015;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mZEhWMAOpYIaEtFp8aDg-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="100" y="400" as="sourcePoint" />
+            <mxPoint x="590" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mZEhWMAOpYIaEtFp8aDg-1" value="&lt;u&gt;:顯示&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="80" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
