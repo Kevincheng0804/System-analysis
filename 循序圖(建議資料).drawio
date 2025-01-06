@@ -91,18 +91,18 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="cc70GZquX2ByTeVMwbqB" name="GPT身分">
-    <mxGraphModel dx="816" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+  <diagram id="cc70GZquX2ByTeVMwbqB" name="生成建議資料">
+    <mxGraphModel dx="1034" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="90s9_CREnXh_7r0UGWjc-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=50;" parent="1" vertex="1">
           <mxGeometry x="11" y="110" width="40" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="90s9_CREnXh_7r0UGWjc-3" value="3:傳送分析資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" target="E2JmZn8zEcEdn4w3PUnU-1" edge="1">
+        <mxCell id="90s9_CREnXh_7r0UGWjc-3" value="3:傳送分析資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="300" y="294.5" as="sourcePoint" />
-            <mxPoint x="428.79999999999995" y="294.5" as="targetPoint" />
+            <mxPoint x="494.5" y="294.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="90s9_CREnXh_7r0UGWjc-6" value="1:建立備課資料()" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" parent="1" target="Q-6aSUCuVOY74vQfzuBb-1" edge="1">
@@ -111,12 +111,6 @@
             <mxPoint x="158.79999999999995" y="220" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="E2JmZn8zEcEdn4w3PUnU-1" value="&lt;u&gt;:GPT資料庫&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=70;" parent="1" vertex="1">
-          <mxGeometry x="460" y="110" width="70" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-6aSUCuVOY74vQfzuBb-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="E2JmZn8zEcEdn4w3PUnU-1" vertex="1">
-          <mxGeometry x="30" y="180" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q-6aSUCuVOY74vQfzuBb-1" value="&lt;u&gt;:建立&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=70;" parent="1" vertex="1">
           <mxGeometry x="250" y="110" width="80" height="370" as="geometry" />
@@ -199,7 +193,7 @@
             <mxPoint x="656.8500000000001" y="370.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1eh1g7Y5oQAZLkepMWC-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="X1eh1g7Y5oQAZLkepMWC-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="295" y="236" width="10" height="34" as="geometry" />
         </mxCell>
       </root>
