@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="第 1 页" id="O-JAYGMxtfNgu9QWobxc">
-    <mxGraphModel dx="4434" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4737" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="77" width="10" height="73" as="geometry" />
         </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="cSUb0s7sQzvSsTjn1v_9-2" vertex="1">
-          <mxGeometry x="45" y="220" width="10" height="140" as="geometry" />
+          <mxGeometry x="45" y="220" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-8" value="&lt;u&gt;:確認資料UI&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="502" y="31" width="100" height="1269" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="45" y="429" width="10" height="31" as="geometry" />
         </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="cSUb0s7sQzvSsTjn1v_9-14" vertex="1">
-          <mxGeometry x="45" y="355" width="10" height="42" as="geometry" />
+          <mxGeometry x="45" y="370" width="10" height="27" as="geometry" />
         </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-20" value="1:查看備課資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="cSUb0s7sQzvSsTjn1v_9-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -161,10 +161,10 @@
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-47" value="[是否要編輯資料]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="610" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cSUb0s7sQzvSsTjn1v_9-50" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" source="cSUb0s7sQzvSsTjn1v_9-4" target="cSUb0s7sQzvSsTjn1v_9-14" edge="1">
+        <mxCell id="cSUb0s7sQzvSsTjn1v_9-50" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="300" y="390" as="sourcePoint" />
-            <mxPoint x="696" y="390" as="targetPoint" />
+            <mxPoint x="235" y="401" as="sourcePoint" />
+            <mxPoint x="994.5" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cSUb0s7sQzvSsTjn1v_9-51" value="14:點擊編輯資料()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
@@ -240,6 +240,12 @@
             <mxPoint x="560" y="760" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVskaxcu2NLFtuiNmCba-6" value="標記所需段落" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="40" y="390" as="sourcePoint" />
+            <mxPoint x="225" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
