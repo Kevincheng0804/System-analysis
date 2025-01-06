@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="1282" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+        <mxGraphModel dx="1557" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -72,9 +72,6 @@
                 <mxCell id="ybDPWDcmM2NUyqlbh23f-149" value="建立備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-164" vertex="1">
                     <mxGeometry y="282" width="160" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="176" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ybDPWDcmM2NUyqlbh23f-171" target="ybDPWDcmM2NUyqlbh23f-178" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="182" style="edgeStyle=none;html=1;dashed=1;fontColor=#FFFFFF;endArrow=open;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ybDPWDcmM2NUyqlbh23f-171" target="ybDPWDcmM2NUyqlbh23f-213" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
@@ -83,7 +80,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;確認資料UI" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-171">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="480" y="930" width="160" height="386" as="geometry">
+                        <mxGeometry x="280" y="694" width="160" height="386" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -129,46 +126,6 @@
                 </mxCell>
                 <mxCell id="244" value="傳送編輯完建議資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ybDPWDcmM2NUyqlbh23f-171">
                     <mxGeometry y="360" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <object label="&lt;&lt;boundary&gt;&gt;&#10;儲存資料API" placeholders="1" id="ybDPWDcmM2NUyqlbh23f-178">
-                    <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="250" y="650" width="160" height="336" as="geometry">
-                            <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
-                        </mxGeometry>
-                    </mxCell>
-                </object>
-                <mxCell id="ybDPWDcmM2NUyqlbh23f-179" value="端點" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="40" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="ybDPWDcmM2NUyqlbh23f-180" value="HTTP方法" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="66" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="ybDPWDcmM2NUyqlbh23f-181" value="路徑參數" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="92" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="ybDPWDcmM2NUyqlbh23f-182" value="查詢參數" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="118" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="hvvuKaDKMWPNRGpmDHfG-186" value="請求體" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="144" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="156" value="請求頭" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="170" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="ybDPWDcmM2NUyqlbh23f-183" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="196" width="160" height="8" as="geometry"/>
-                </mxCell>
-                <mxCell id="177" value="儲存資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="204" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="hvvuKaDKMWPNRGpmDHfG-187" value="更新資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="230" width="160" height="26" as="geometry"/>
-                </mxCell>
-                <mxCell id="hvvuKaDKMWPNRGpmDHfG-188" value="刪除資料()" style="text;whiteSpace=wrap;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="256" width="160" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="hvvuKaDKMWPNRGpmDHfG-189" value="讀取資料()" style="text;whiteSpace=wrap;" parent="ybDPWDcmM2NUyqlbh23f-178" vertex="1">
-                    <mxGeometry y="296" width="160" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="231" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ybDPWDcmM2NUyqlbh23f-192" target="221">
                     <mxGeometry relative="1" as="geometry"/>
@@ -289,7 +246,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;ViewModel" placeholders="1" id="187">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-                        <mxGeometry x="750" y="1060" width="160" height="100" as="geometry">
+                        <mxGeometry x="580" y="940" width="160" height="100" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -393,7 +350,7 @@
                 </mxCell>
                 <object label="&lt;&lt;boundary&gt;&gt;&#10;Model" placeholders="1" id="241">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-                        <mxGeometry x="1000" y="1090" width="160" height="100" as="geometry">
+                        <mxGeometry x="830" y="1080" width="160" height="100" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
@@ -412,7 +369,7 @@
                 </mxCell>
                 <object label="&lt;&lt;control&gt;&gt;&#10;監聽" placeholders="1" id="249">
                     <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-                        <mxGeometry x="750" y="1236" width="160" height="80" as="geometry">
+                        <mxGeometry x="540" y="1100" width="160" height="80" as="geometry">
                             <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds"/>
                         </mxGeometry>
                     </mxCell>
