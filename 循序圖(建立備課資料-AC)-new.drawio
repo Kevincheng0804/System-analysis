@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="第 1 页" id="02cxdgv99CvA-U2xE2fi">
-    <mxGraphModel dx="1134" dy="5318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="25" y="248" width="10" height="22" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-9" value="&lt;u&gt;:顯示&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;size=58;" parent="1" vertex="1">
-          <mxGeometry x="635" y="-83" width="60" height="1108" as="geometry" />
+          <mxGeometry x="635" y="43" width="60" height="1108" as="geometry" />
         </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H8wYjX5WcJpsJir_X8CI-9" vertex="1">
           <mxGeometry x="25" y="118" width="10" height="72" as="geometry" />
