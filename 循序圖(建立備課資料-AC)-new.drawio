@@ -46,9 +46,6 @@
         <mxCell id="H8wYjX5WcJpsJir_X8CI-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H8wYjX5WcJpsJir_X8CI-9" vertex="1">
           <mxGeometry x="25" y="428" width="10" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="H8wYjX5WcJpsJir_X8CI-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H8wYjX5WcJpsJir_X8CI-9" vertex="1">
-          <mxGeometry x="25" y="942" width="10" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="H8wYjX5WcJpsJir_X8CI-22" value="&lt;u&gt;:備課&lt;br&gt;資料庫&lt;/u&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=60;" parent="1" vertex="1">
           <mxGeometry x="1037" y="50" width="70" height="1100" as="geometry" />
         </mxCell>
