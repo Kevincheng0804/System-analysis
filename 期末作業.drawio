@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4" pages="13">
   <diagram name="使用個案圖" id="rII39cv6ucEfRYHpNnpw">
     <mxGraphModel dx="4234" dy="5206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -660,7 +660,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="v_O3rKsj7hLgYVD6DbCs" name="循序圖(建立備課資料-UI)">
+  <diagram id="v_O3rKsj7hLgYVD6DbCs" name="循序圖(整合管理系統(沒分析評量)-UI)">
     <mxGraphModel dx="4094" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -913,7 +913,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="w635cmss3v_-TTMz7WSb" name="循序圖(建立備課資料-AC)">
+  <diagram id="w635cmss3v_-TTMz7WSb" name="循序圖(整合管理系統(沒分析評量)-AC)">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1449,7 +1449,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9peyZ5cPetULHTFgDSGo" name="溝通圖(建立備課資料-UI)">
+  <diagram id="9peyZ5cPetULHTFgDSGo" name="溝通圖(整合管理系統(沒分析評量)-UI)">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1643,7 +1643,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rkZRzKeqcqP3p0CnHD3Q" name="溝通圖(建立備課資料-AC)">
+  <diagram id="rkZRzKeqcqP3p0CnHD3Q" name="溝通圖(整合管理系統(沒分析評量)-AC)">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2057,7 +2057,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9pASRvU858ek-hPa6yFB" name="溝通圖(完整版)">
+  <diagram id="9pASRvU858ek-hPa6yFB" name="溝通圖(整合管理系統(沒分析評量)完整版)">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2367,6 +2367,429 @@
         </mxCell>
         <mxCell id="R5HwWTka03CHSNO-5z5Q-67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;24:傳送資料&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vInE-a2GfgyAvm6nQe-G" name="類別圖(整合管理系統(沒分析評量))">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PR3L4-SA-FREsTatwKjl-1" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-2" target="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;boundary&gt;&gt;&#xa;載入資料UI" placeholders="1" id="PR3L4-SA-FREsTatwKjl-2">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="250" y="430" width="160" height="160" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-3" value="附檔名稱" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-2">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-4" value="附檔位置" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-2">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-5" value="插入附加資料" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-2">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-6" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-2">
+          <mxGeometry y="118" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-7" value="插入附加資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-2">
+          <mxGeometry y="126" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-8" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;startArrow=none;startFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-9" target="PR3L4-SA-FREsTatwKjl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;boundary&gt;&gt;&#xa;查看UI" placeholders="1" id="PR3L4-SA-FREsTatwKjl-9">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="510" y="143" width="160" height="314" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-10" value="備課資料檔案名稱" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-11" value="輸入內文" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-12" value="備課資料大綱 " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-13" value="載入附檔" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="118" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-14" value="生成推薦備課資料" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="144" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-15" value="備課資料名稱" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="170" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-16" value="建立備課資料" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="196" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-17" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="222" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-18" value="傳送更改後備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="230" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-19" value="傳送備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="256" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-20" value="建立備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry y="282" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-21" style="edgeStyle=none;html=1;dashed=1;fontColor=#FFFFFF;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-23" target="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-22" style="edgeStyle=none;html=1;dashed=1;startArrow=open;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-23" target="PR3L4-SA-FREsTatwKjl-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;boundary&gt;&gt;&#xa;確認資料UI" placeholders="1" id="PR3L4-SA-FREsTatwKjl-23">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="280" y="694" width="160" height="386" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-24" value="備課資料名稱" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-25" value="推薦資料內文" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-26" value="推薦資料來源" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-27" value="儲存推薦資料" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="118" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-28" value="編輯推薦資料" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="144" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-29" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="170" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-30" value="儲存推薦資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="178" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-31" value="編輯推薦資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="204" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-32" value="傳送刪除快取資料要求()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="230" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-33" value="請求推薦前資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="256" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-34" value="讀取最終儲存資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="282" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-35" value="請求所需資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="308" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-36" value="儲存需編輯資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="334" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-37" value="傳送編輯完建議資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry y="360" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-38" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-39" target="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;control&gt;&gt;&#xa;上傳資料" placeholders="1" id="PR3L4-SA-FREsTatwKjl-39">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="790" y="250" width="160" height="100" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-40" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-39">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-41" value="輸入備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-39">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-42" value="提出備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-39">
+          <mxGeometry y="74" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-43" style="edgeStyle=none;html=1;endArrow=open;endFill=0;dashed=1;startArrow=open;startFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-48" target="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-44" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-48" target="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-45" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-48" target="PR3L4-SA-FREsTatwKjl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-46" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-48" target="PR3L4-SA-FREsTatwKjl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-47" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-48" target="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;control&gt;&gt;&#xa;顯示" placeholders="1" id="PR3L4-SA-FREsTatwKjl-48">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="570" y="550" width="160" height="282" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-49" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-50" value="顯示現有備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-51" value="顯示推薦備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="74" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-52" value="顯示最終備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="100" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-53" value="載入輸入資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="126" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-54" value="載入確認資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="152" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-55" value="載入查看資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="178" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-56" value="載入建立資料UI()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="204" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-57" value="顯示推薦備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="230" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-58" value="搜尋老師資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-48">
+          <mxGeometry y="256" width="160" height="26" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;entity&gt;&gt;&#xa;備課資料庫" placeholders="1" id="PR3L4-SA-FREsTatwKjl-59">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="870" y="720" width="160" height="308" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-60" value="檔案編號:Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-61" value="評量名稱:String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-62" value="建立日期:Datetime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-63" value="評量內容: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="118" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-64" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="144" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-65" value="寫入資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="152" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-66" value="讀取備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="178" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-67" value="建立評量()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="204" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-68" value="編輯備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="230" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-69" value="傳送推薦前的資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="256" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-70" value="回傳推薦備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry y="282" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-71" style="edgeStyle=none;html=1;dashed=1;startArrow=open;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-73" target="PR3L4-SA-FREsTatwKjl-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-72" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-73" target="PR3L4-SA-FREsTatwKjl-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;boundary&gt;&gt;&#xa;ViewModel" placeholders="1" id="PR3L4-SA-FREsTatwKjl-73">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="590" y="928" width="160" height="100" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-74" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-73">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-75" value="傳送資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-73">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-76" value="發出變更資料提示()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-73">
+          <mxGeometry y="74" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-77" style="edgeStyle=none;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-78" target="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;entity&gt;&gt;&#xa;老師資料庫" placeholders="1" id="PR3L4-SA-FREsTatwKjl-78">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="830" y="390" width="160" height="210" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-79" value="建立日期:Datetime" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-80" value="使用者名稱:String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-81" value="使用者編號:Integer" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-82" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="118" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-83" value="存取教學評量()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="126" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-84" value="存取暫存備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="152" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-85" value="存取備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-78">
+          <mxGeometry y="178" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-86" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-88" target="PR3L4-SA-FREsTatwKjl-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-87" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-88" target="PR3L4-SA-FREsTatwKjl-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;boundary&gt;&gt;&#xa;GPTAPI" placeholders="1" id="PR3L4-SA-FREsTatwKjl-88">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="1070" y="44" width="160" height="386" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-89" value="備課資料:String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="40" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-90" value="API 密鑰: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="66" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-91" value="模型: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="92" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-92" value="提示: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="118" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-93" value="最大標記數: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="144" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-94" value="溫度: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="170" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-95" value="頂部概率: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="196" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-96" value="頻率懲罰: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="222" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-97" value="存在懲罰: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="248" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-98" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="274" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-99" value="傳輸推薦資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="282" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-100" value="生成文本()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="308" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-101" value="編輯文本()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="334" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-102" value="生成嵌入向量()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-88">
+          <mxGeometry y="360" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-103" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-104" target="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;control&gt;&gt;&#xa;儲存" placeholders="1" id="PR3L4-SA-FREsTatwKjl-104">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="1070" y="510" width="160" height="80" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-105" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-104">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-106" value="儲存推薦備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-104">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-107" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-108" target="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;control&gt;&gt;&#xa;更新" placeholders="1" id="PR3L4-SA-FREsTatwKjl-108">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="1270" y="510" width="160" height="80" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-109" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-108">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-110" value="儲存推薦備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-108">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-111" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-112" target="PR3L4-SA-FREsTatwKjl-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;boundary&gt;&gt;&#xa;Model" placeholders="1" id="PR3L4-SA-FREsTatwKjl-112">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="805" y="1110" width="160" height="100" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-113" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-112">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-114" value="更新編輯完建議資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-112">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-115" value="回傳備課資料()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-112">
+          <mxGeometry y="74" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-116" style="edgeStyle=none;html=1;dashed=1;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="PR3L4-SA-FREsTatwKjl-117" target="PR3L4-SA-FREsTatwKjl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;&lt;control&gt;&gt;&#xa;監聽" placeholders="1" id="PR3L4-SA-FREsTatwKjl-117">
+          <mxCell style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+            <mxGeometry x="540" y="1080" width="160" height="80" as="geometry">
+              <mxRectangle x="1260" y="310" width="160" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-118" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-117">
+          <mxGeometry y="40" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-119" value="回傳變更資料提示()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PR3L4-SA-FREsTatwKjl-117">
+          <mxGeometry y="48" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-120" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PR3L4-SA-FREsTatwKjl-121" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="678" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
