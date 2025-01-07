@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="H2TznUmvJiQQ8Nd20iMS">
     <mxGraphModel dx="794" dy="5127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
             <mxPoint x="223.03999999999996" y="104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CziYM-y-jJqnJA0qJ0Aq-67" value="GPT&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+        <mxCell id="CziYM-y-jJqnJA0qJ0Aq-67" value="GPT API" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="-150" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CziYM-y-jJqnJA0qJ0Aq-70" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CziYM-y-jJqnJA0qJ0Aq-40" target="CziYM-y-jJqnJA0qJ0Aq-67" edge="1">
